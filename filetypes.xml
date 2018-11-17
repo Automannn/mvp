@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="kik" type="PLAIN_TEXT" />
+      <mapping pattern="jj" type="PLAIN_TEXT" />
+      <mapping pattern="454" type="PLAIN_TEXT" />
+      <mapping pattern="11" type="PLAIN_TEXT" />
+      <mapping ext="xmind" type="PLAIN_TEXT" />
+      <mapping pattern="home_fragment_item" type="XML" />
+    </extensionMap>
+  </component>
+</application>
